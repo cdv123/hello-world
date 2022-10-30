@@ -1,0 +1,40 @@
+
+#Box{
+background-color: darkblue;
+width:50px;
+height: 50px;
+position:absolute;
+top: 50%;
+left: 50%;  
+}
+body{
+  background-color: rgb(67, 100, 111);
+}
+h1 {background-color: aqua;}
+#image{ 
+    height: 100px;
+    width: 100px;
+}
+
+input[type=text]{
+    border: 3px solid blue; 
+    border-radius: 4px;
+}
+
+input[type=text]:focus {
+  background-color: rgb(176, 169, 214);
+}
+h1 {
+  text-align: center;
+}
+h1:hover{
+  font-size: 10px;
+}
+#question{
+  font-size: 20px;
+  text-align: center;
+  color: black;
+}
+
+
+
